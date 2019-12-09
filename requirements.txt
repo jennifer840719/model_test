@@ -3,7 +3,7 @@ gunicorn
 tensorflow
 lucid>=0.2.3
 numpy
-PIL
+Image
 matplotlib
 google.colab
 IPython
