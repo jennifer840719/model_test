@@ -1,2 +1,11 @@
 Flask
 gunicorn
+tensorflow
+lucid>=0.2.3
+numpy
+PIL
+matplotlib
+google.colab
+IPython
+lucid
+OpenGL
