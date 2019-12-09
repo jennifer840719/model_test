@@ -5,6 +5,6 @@ lucid>=0.2.3
 numpy
 Image
 matplotlib
-google.colab
+google-colab
 IPython
 OpenGL
