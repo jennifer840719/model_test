@@ -7,5 +7,4 @@ PIL
 matplotlib
 google.colab
 IPython
-lucid
 OpenGL
